@@ -1,5 +1,5 @@
 # Algotrading--Double-Bottom-Trader
 
-IMPORTANT! Please note that this project is still a work in progress and hence it most probably contains several bugs, code inefficiencies and perhaps most commonly of all, styling issues. 
-
+**IMPORTANT! Please note that this project is still a work in progress and hence it most probably contains several bugs, code inefficiencies and perhaps most commonly of all, styling issues. 
+**
 The Double Bottom pattern in financial markets trading is one of the most well-known technical chart patterns that is, however, highly subjective and irregular and hence, is not typically preferred by algo traders due to the unambiguous nature of double bottom patterns. Interestingly, the amount of literature on the topic of identifying such patterns has so far remained very scarce, despite this pattern arguably having a much stronger predictive power than technical indicators in general. As a consequence, most traders who publish their trading methodology continue to identify chart patterns such as the double bottom by means of visual inspection. In this project, I attempted to create a robust solution with the possibility to identify double bottom chart patterns in real time and initiate buy orders on a wide selection of markets using the Python API of the MetaTrader trading software.
